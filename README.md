@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://synamatic-elsa-backend.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone git@github.com:https://github.com/Elsa2022/Synamatic.git
 ```
 
 2. Backend setting
